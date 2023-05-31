@@ -10,5 +10,13 @@ public class String {
     String 
 		 
 	}
+	public void add(String data) {
+	System.out.println();
+	}
+
+	public void add(String data) {
+	System.out.println();
+	}
+
 
 }
